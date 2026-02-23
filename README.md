@@ -1,6 +1,6 @@
 # Agent Skills Professional: agent-skills-professional
 
-[Github](https://github.com/aiagenta2z/agent-skills-professional) | [Agent Search](https://www.deepnlp.org/search/agent) | [Agent Marketplace GitHub](https://github.com/aiagenta2z/ai-agent-marketplace) | [Agent Marketplace Website](https://www.deepnlp.org/store/ai-agent) | [Agent Deployment Live](https://deepnlp.org/doc/agent_mcp_deployment) | [OneKey Agent Router](https://agent.deepnlp.org)
+[Github](https://github.com/aiagenta2z/agent-skills-professional) | [Search Agent](https://www.deepnlp.org/search/agent) | [Marketplace GitHub](https://github.com/aiagenta2z/ai-agent-marketplace) | [AI Agent Marketplace](https://www.deepnlp.org/store/ai-agent) | [Live Agent Deployment](https://deepnlp.org/doc/agent_mcp_deployment) | [Agent Router](https://agent.deepnlp.org)
 
 Open-source professional agent skills library for AI employees and AI coworkers. Modular, reusable agent skills covering 30+ real-world professions.
 
